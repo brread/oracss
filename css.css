@@ -2,86 +2,86 @@
     font-family: gamefont;
     src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_c5H3gnD_g.woff2);
 }
-
+ 
 #ammoIcon {
     display: none!Important
 }
-
+ 
 #timerIcon {
     display: none!Important
 }
-
-
+ 
+ 
 #aContainer {
     display: none!important
 }
-
+ 
 #voiceDisplay{
     display: none;
 }
-
+ 
 #uiBase.onMenu #voiceDisplay {
     display: none;
 }
-
+ 
 .imageButton {
    display: none!important
 }
-
+ 
 .endAHolder {
     display: none!important
 }
-
+ 
 #endAContainer {
     display: none!important
 }
-
+ 
 #supportMapCreator {
     display: none!important
 }
-
+ 
 #supportKrunker {
     display: none
 }
-
+ 
 .UIB {
     background-color: transparent !important
 }
-
+ 
 .leftUIB {
     background-color: transparent !important
 }
-
+ 
 #healthValueHolder {
     background-color: transparent !important
 }
-
+ 
 #leaderDisplay {
     background-color: transparent!Important
 }
-
+ 
 .weapKey{
     display: none!important
 }
-
+ 
 #weapDisplay{
     display: none!important
 }
-
+ 
 .countIcon {
     background-color: transparent!Important;
     font-size: 25px;
 }
-
+ 
 #timerDisplay {
     padding-top: 0px;
 }
-
+ 
 .leaderItem {
     display: flex;
     font-size: 25px;
 }
-
+ 
 .chatItem {
     word-wrap: break-word;
     display: inline-block;
@@ -92,7 +92,7 @@
     font-size: 19px;
     max-width: 310px;
 }
-
+ 
 #chatInput {
     width: 269px;
     padding: 6px;
@@ -107,7 +107,7 @@
     border-radius: 5px;
     margin-left: 4px;
 }
-
+ 
 #ammoDisplay {
     margin-right: -15px;
     display: inline-block;
@@ -127,25 +127,25 @@
     -o-transform: translateZ(0);
     transform: translateZ(0);
 }
-
+ 
 #pingText {
     font-size: 25px;
     vertical-align: top;
     color: rgba(255, 255, 255, 0.5);
 }
-
+ 
 #healthValue {
     color: #fff;
     font-size: 25px;
     will-change: transform;
     display: inline-block;
 }
-
+ 
 #maxHP {
     color: rgba(255, 255, 255, 0.8);
     font-size: 25px;
 }
-
+ 
 #chatList {
     background-color: var(--transp) !important
 }
@@ -155,7 +155,7 @@
     color: var(--white);
     text-shadow: var(--outline)
 }
-
+ 
 #chatInputHolder {
     background-color: var(--transp) !important;
     border: var(--transp) !important;
@@ -180,22 +180,24 @@
     color: var(--white) !important;
     text-shadow: var(--outline)
 }
-
+ 
 #seasonLabel {
     display: none;
 }
-
+ 
 #loadingBg {
     background-image: url(https://cdn.discordapp.com/attachments/833190169308954644/863449090272657429/ORA2.png);
 }
-
+ 
 #mainLogo {
 	content: url(https://media.discordapp.net/attachments/864239467736465418/876204478737575997/ORA31-removebg-preview-removebg-preview_1.png);
 	width: 250%;
     height: 250%;
     margin-top: -100px;
 }
-
-.buttonPI, .buttonO, .buttonP, .buttonG {
+ 
+}
+ 
+.buttonPI, .buttonO, .buttonP, .buttonG, .buttonB, .buttonR {
     border: 4px solid #fa50ae00!important;
 }
