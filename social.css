@@ -1,0 +1,8 @@
+@font-face {
+    font-family: gamefont;
+    src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_c5H3gnD_g.woff2);
+}
+
+#backgroundImage {
+    background-image: url(https://cdn.discordapp.com/attachments/833190169308954644/863449090272657429/ORA2.png);
+}
